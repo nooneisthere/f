@@ -49,26 +49,4 @@ https://google-chrome.cn.uptodown.com/windows
 ■网♢门
 www.ogate.org
 
-2016-2017最人气网站
 
-■大♢纪♢元
-www.epochtimes.com
-
-海♢外最大中文媒体
-
-■新♢唐♢人电视台
-www.ntdtv.com
-
-全球最大的中文电视台
-
-■希♢望♢之♢声国际广播电台
-
-www.soundofhope.org
-
-■看♢中♢国
-www.secretchina.com
-
-■明♢慧♢网
-www.minghui.org
-
-看到最真♢实的中♢国
