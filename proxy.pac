@@ -35,6 +35,7 @@ function FindProxyForURL(url, host) {
 
 	if (
         dnsDomainIs(host, ".githubassets.com")||
+	dnsDomainIs(host, ".github.com")||
     	dnsDomainIs(host, ".blogspot.com") ||
     	dnsDomainIs(host, ".vox.com") ||
     	dnsDomainIs(host, ".imdb.com") ||
