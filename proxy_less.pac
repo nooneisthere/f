@@ -27,7 +27,7 @@ Internet Explorer, use: file://c:/windows/proxy.pac
 
 
 function FindProxyForURL(url, host) {
-    var proxy_yes = 'PROXY 192.168.200.1:9666';
+    var proxy_yes = 'PROXY 192.168.200.1:11981';
 	var proxy_no = 'DIRECT';
 	url = url.toLowerCase ();
     host = host.toLowerCase();
